@@ -2,7 +2,6 @@ package com.softtek.Abril16;
 
 import com.softtek.Abril16.modelo.ejercicio1.Saludo;
 import com.softtek.Abril16.modelo.ejercicio2.Conductor;
-import com.softtek.Abril16.modelo.ejercicio2.Coche;
 import com.softtek.Abril16.modelo.ejercicio3.Coche2;
 import com.softtek.Abril16.modelo.ejercicio3.SeguroCoche;
 import com.softtek.Abril16.modelo.ejercicio4.Jefe;
